@@ -1,4 +1,4 @@
-# Explore-Weather-Trends
+# Explore Weather Trends
 Udacity - Data Analyst Nanodegree
 ## Project Instructions
 ### Summary
